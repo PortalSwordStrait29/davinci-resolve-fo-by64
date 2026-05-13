@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for PC | DaVinci Resolve for Windows with custom DaVinci Resolve for PC | DaVinci Resolve for Windows Preset | export-presets + timeline-editing, the #1
 
 
 
